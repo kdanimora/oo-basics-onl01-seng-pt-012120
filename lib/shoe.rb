@@ -10,7 +10,7 @@ attr_accessor :brand, :color, :size, :material, :condition
 attr_reader :brand 
 
 def cobble 
-  puts "your shoes has been repaired"
+  puts "Your shoe is as good as new!"
   @condition = "new"
 end 
 

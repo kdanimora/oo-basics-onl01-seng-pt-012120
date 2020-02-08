@@ -9,8 +9,7 @@ end
 attr_accessor :brand, :color, :size, :material, :condition 
 attr_reader :brand 
 
-def cobble 
-  
+def 
 end 
 
 def 
